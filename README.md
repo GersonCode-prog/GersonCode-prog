@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=0402F7&center=verdadero&vCenter=FALSO&repeat=verdadero&random=FALSO&width=450&lines=Ingeniero+en+Sistemas;Programador+Web;Analista+QA&center=true&width=500&height=40" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">Hola, soy Gersón Enrique Batún Suriano. un apasionado joven de 23 años experto en desarrollo web y QA. Mi objetivo es transformar ideas en soluciones digitales efectivas, optimizando la experiencia del usuario y garantizando la calidad en cada proyecto que abordo. Con un enfoque en el cierre de pensum, mi objetivo es continuar aprendiendo y mejorando constantemente, manteniéndome al día con las últimas tendencias tecnológicas y estándares de la industria.</h4>
+<h4 align="center">Hola, soy Gersón Enrique Batún Suriano. un apasionado joven de 23 años con experiencia en desarrollo web y QA. Mi objetivo es transformar ideas en soluciones digitales efectivas, optimizando la experiencia del usuario y garantizando la calidad en cada proyecto que abordo. Con un enfoque en el cierre de pensum, mi objetivo es continuar aprendiendo y mejorando constantemente, manteniéndome al día con las últimas tendencias tecnológicas y estándares de la industria.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GersonCode-prog&label=Profile%20views&color=0e75b6&style=plastic" alt="GersonCode-prog" /> </p>
 
