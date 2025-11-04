@@ -16,14 +16,21 @@
   <img src="https://komarev.com/ghpvc/?username=GersonCode-prog&label=Profile%20views&color=0e75b6&style=plastic" alt="GersonCode-prog" /> 
 </p>
 
-## 🔥 Estadísticas de GitHub
+## 📊 Estadísticas Completas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GersonCode-prog&theme=vue-dark&locale=es" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GersonCode-prog&theme=vue" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GersonCode-prog&show_icons=true&theme=vue-dark&locale=es" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GersonCode-prog&theme=vue" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GersonCode-prog&theme=vue" alt="Most Commit Language" />
+</p>
+
+## 🔥 Estadísticas de Racha
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=GersonCode-prog&theme=vue-dark&locale=es" alt="GitHub Streak Stats" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
