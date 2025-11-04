@@ -28,7 +28,8 @@
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=GersonCode-prog&theme=vue-dark&locale=es" alt="GitHub Streak Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+##  Languages and Tools
 
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -51,5 +52,11 @@
   </a> 
   <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="Jira" width="40" height="40"/> 
+  </a>
+  <a href="https://www.adobe.com/la/products/coldfusion.html" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/adobe_coldfusion/adobe_coldfusion-icon.svg" alt="coldfusion" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
 </p>
