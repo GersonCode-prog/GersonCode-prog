@@ -18,16 +18,11 @@
 
 ## 📊 Estadísticas Completas
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GersonCode-prog&theme=vue" alt="Profile Details" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GersonCode-prog&theme=vue" alt="Stats Card" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GersonCode-prog&theme=vue" alt="Most Commit Language" />
 </p>
-
-## 🔥 Estadísticas de Racha
 
 <p align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=GersonCode-prog&theme=vue-dark&locale=es" alt="GitHub Streak Stats" />
