@@ -53,9 +53,9 @@
   <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="Jira" width="40" height="40"/> 
   </a>
-  <a href="https://www.adobe.com/la/products/coldfusion.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_coldfusion/adobe_coldfusion-icon.svg" alt="coldfusion" width="40" height="40"/> 
-  </a>
+  <a href="https://www.adobe.com/la/products/coldfusion.html" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/ColdFusion-0099D6?style=for-the-badge&logo=adobe&logoColor=white" alt="coldfusion" height="40"/>
+</a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
